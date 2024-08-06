@@ -22,4 +22,4 @@ function skillsMember() {
     };
 
     return skills;
-} () {}
+}
